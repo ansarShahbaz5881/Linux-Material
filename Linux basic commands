@@ -1,0 +1,25 @@
+sudo apt-get install openssh-server 
+sudo apt-get install lamp-server^
+pwd
+cd
+/
+cd ..
+sudo apt-get install -y
+
+sudo apt install htop
+htop
+sudo apt-get --fix-broken -y
+sudo apt-get --fix-missing -y
+sudo dpkg --fix-configure -a
+cat (creat,cancatenate,copy,tac)
+df -h /
+man ls
+mv
+cp
+mkdir
+rmdir
+rm
+find
+chmod 
+chown
+chgrp

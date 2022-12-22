@@ -1,0 +1,643 @@
+ 1  clr
+    2  clear
+    3  pwd
+    4  ls
+    5  cd /
+    6  ls
+    7  cd home
+    8  ls
+    9  cd ansar
+   10  ls
+   11  cd
+   12  cd /
+   13  cd
+   14  cd Downloads/
+   15  cd
+   16  sudo apt-get update -y
+   17  sudo apt-get upgrade -y
+   18  sudo apt-get install openssh-server -y
+   19  clear
+   20  history
+   21  clear
+   22  cd Desktop/
+   23  touch linux commands.txt
+   24  touch test
+   25  touch 1 2 3
+   26  remove 1 2 3
+   27  rm 1
+   28  ls
+   29  rm 2 3
+   30  ls
+   31  rm test
+   32  ls
+   33  rm commands.txt
+   34  touch test.xlsx
+   35  ls
+   36  rm test.xlsx 
+   37  rm linux 
+   38  ls
+   39  touch test
+   40  ls
+   41  cat test
+   42  ls
+   43  mkdir testfolder
+   44  ls
+   45  clear
+   46  mv test testfolder/
+   47  ls
+   48  ls testfolder/
+   49  clear
+   50  history
+   51  clear
+   52  ls
+   53  ls testfolder
+   54  rm testfolder/
+   55  rmdir testfolder/
+   56  rmdir -f testfolder/
+   57  clear
+   58  ls
+   59  cd testfolder/
+   60  ls
+   61  mkdir test2
+   62  ls
+   63  rmdir test2/
+   64  cd /
+   65  cd home/
+   66  cd ..
+   67  cd
+   68  id
+   69  cd
+   70  ls
+   71  /
+   72  cd home
+   73  cd hom
+   74  cd home/
+   75  /
+   76  cd..
+   77  ls
+   78  Downloads/
+   79  ls
+   80  clear
+   81  pwd
+   82  cd /
+   83  ls
+   84  cd home/
+   85  ls
+   86   cat /etc/apt/sources.list.d/google-chrome.list
+   87  cd/
+   88  cd..
+   89  pwd
+   90  ls
+   91  cd /
+   92   cat /etc/apt/sources.list.d/google-chrome.list
+   93  sudo apt-get –only-upgrade install google-chrome-stable
+   94  sudo apt-get upgrade install google-chrome-stable
+   95  id
+   96  ifconfig
+   97  sudo apt install net-tools
+   98  ifconfig
+   99  id
+  100  ifconfig
+  101  arp -a
+  102  apt install mysql-server -y
+  103  apt install mysql-server -y
+  104  mysql -V
+  105  sudo apt install php libapache2-mod-php php-mysql -y
+  106  php -v
+  107  useradd -D
+  108  clear
+  109  tail -3 etc/passwd
+  110  tail -1 etc/passwd
+  111  tail -a etc/passwd
+  112  tail -10 etc/passwd
+  113  useradd ansar2
+  114  useradd
+  115  clear
+  116  sudo useradd ansar2
+  117  tail -5 etc/passwd
+  118  id ansar2
+  119  id
+  120  pwd
+  121  ls /home
+  122  tail -3 etc/passwd
+  123  sudo useradd ansar3
+  124  ls /home
+  125  tail -3 etc/passwd
+  126  sudo useradd -m ansar4
+  127  ls /home
+  128  ls /ansar4
+  129  ls/home
+  130  ls /home
+  131  cd /ansar4
+  132  cd ansar4
+  133  pwd
+  134  cd /home
+  135  pwd
+  136  cd /ansar
+  137  ls
+  138  cd ansar
+  139  ls
+  140  cd ..
+  141  ls
+  142  cd ansar4
+  143  ls
+  144  clear
+  145  pwd
+  146  cd ..
+  147  pwd
+  148  ls
+  149  sudo userdel ansar2
+  150  pwd
+  151  ls
+  152  tail -5 etc-passwd
+  153  tail -3 etc/passwd
+  154  cd /
+  155  tail -3 etc/passwd
+  156  tail -5 etc/passwd
+  157  ls
+  158  ls /home
+  159  sudo userdell ansar3
+  160  sudo userdel ansar3
+  161  ls
+  162  ls /home
+  163  tail -5 etc/passwd
+  164  clear
+  165  sudo apt-get update -y
+  166  sudo apt-get upgrade -y
+  167  clear
+  168  sudo apt install openssh-server
+  169  clear
+  170  history
+  171  clear
+  172  man ls
+  173  man apt
+  174  w
+  175  tail -5 etc/shadow
+  176  tail -5 etc/shadow/
+  177  tail -5 etc/passwd
+  178  cd /
+  179  tail -5 etc/passwd
+  180  tail -5 etc/shadow/
+  181  cat -5 etc/shadow/
+  182  clear
+  183  grep etc/passwd
+  184  stat man
+  185  man stat
+  186  clear
+  187  stat -h ansar/ 
+  188  stat ansar
+  189  cd
+  190  pwd
+  191  stat home
+  192  stat Desktop/
+  193  stat -h Desktop/
+  194  stat Desktop/
+  195  stat -lah Desktop/
+  196  stat  Desktop/
+  197  df -h Desktop/
+  198  df -h ansar
+  199  cd /
+  200  df -h ansar
+  201  sudo su
+  202  clear
+  203  sudo apt install open ssh-server
+  204  sudo apt install openssh-server
+  205  clear
+  206  apropos man
+  207  man apropos
+  208  clear
+  209  apropos "Mouse list"
+  210  apropos "Mouse"
+  211  clear
+  212  apropos Mouse
+  213  man ls
+  214  ls
+  215  ls -m
+  216  cd
+  217  pwd
+  218  cd /
+  219  pwd
+  220  cd
+  221  clear
+  222  cd
+  223  ls
+  224  cd ..
+  225  ls
+  226  cd
+  227  ls
+  228  cd
+  229  man ..
+  230  man cd..
+  231  clear
+  232  pwd
+  233  cd /home/ansar/Downloads/
+  234  ls
+  235  cd
+  236  ls
+  237  cd
+  238  cd..
+  239  cd ..
+  240  cd Downloads/Inventory
+  241  cd Downloads/Inventory/
+  242  cd /home/ansar
+  243  cd Downloads/Inventory/
+  244  ls
+  245  clear
+  246  cd
+  247  ls
+  248  cd
+  249  cd Documents/
+  250  ls
+  251  cd
+  252  cd Documents/linux
+  253  cd Documents/linux/
+  254  cd Documents/linux-cli-fundamentals/
+  255  ls
+  256  ls -m
+  257  ls -m-a-l-h
+  258  ls -a
+  259  ls -l
+  260  ls -al
+  261  ls -alh
+  262  la -malh
+  263  clear
+  264  cd
+  265  cd/
+  266  cd /
+  267  `
+  268  ~
+  269  cd
+  270  clear
+  271  cd Documents/
+  272  ls
+  273  cd AnyDesk/
+  274  mkdir testing
+  275  ls
+  276  cd..
+  277  cd ..
+  278  ls
+  279  cd ..
+  280  ls
+  281  cd ..
+  282  ls
+  283  cd ansar
+  284  cd Downloads/
+  285  cd ansar/Documents
+  286  cd ansar/Documents/
+  287  pwd
+  288  cd /home/ansar/Documents
+  289  ls
+  290  pwd
+  291  cd ..
+  292  ls
+  293  pwd
+  294  clear
+  295  sudo apt install ./mongodb-compass_*_amd64.deb
+  296  wget https://downloads.mongodb.com/compass/mongodb-compass_1.30.1_amd64.deb
+  297  MongoDB-compass
+  298  MongoDB-compass
+  299  man MongoDB-compass
+  300  sudo apt install -y software-properties-common gnupg apt-transport-https ca-certificates
+  301  sudo apt install -y mongodb
+  302  wget -qO - https://www.mongodb.org/static/pgp/server-5.0.asc | sudo apt-key add -
+  303  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/5.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-5.0.list
+  304  sudo apt updat
+  305  sudo apt update
+  306  sudo apt install -y mongodb-org
+  307  mongod --version
+  308  sudo systemctl status Mongod
+  309  sudo systemctl status mongod
+  310  sudo systemctl start mongod
+  311  mongo --eval 'db.runCommand({ connectionStatus: 1 })'
+  312  sudo systemctl start mongod
+  313  htop
+  314  sudo apt install htop
+  315  htop
+  316  sudo apt install htop
+  317  apt --fix-broken install
+  318  y
+  319  htop
+  320  sudo apt install htop
+  321  sudo apt-get upgrade -y
+  322  sudo apt-get update -y
+  323  sudo apt install htop
+  324  htop
+  325  sudo apt-get update -y
+  326  sudo apt-get upgrade -y
+  327  sudo apt install openssh-server
+  328  sudo apt --fix-broken install
+  329  sudo apt --fix-broken -y
+  330  sudo apt --fix-missing update
+  331  sudo apt --fix-broken
+  332  sudo apt-get --fix-broken
+  333  sudo apt-get --fix-broken -y
+  334  $ sudo apt-get update --fix-missing
+  335  sudo apt-get update --fix-missing
+  336  sudo apt-get upgrade --fix-missing
+  337  sudo apt-get upgrade --fix-broken
+  338  htop
+  339  cd Documents/
+  340  ls
+  341  cd Linux\ Learning/
+  342  ls
+  343  mkdir lpic\ 101
+  344  rmdir lpic\ 101/
+  345  mkdir LPIC\ 101
+  346  mkdir LPIC\ 102
+  347  ls
+  348  ls -l
+  349  ls -lh
+  350  cd LPIC\ 102
+  351  mkdir Managing\ users\ and\ group\ accounts
+  352  ls
+  353  ouch add\ users\
+  354  ouch add\ and\ removing
+  355  ouch add\ and\ removing\ users
+  356  touch add\ and\ removing\ users
+  357  ls
+  358  ds
+  359  cd ..
+  360  ds
+  361  dh
+  362  dk
+  363  hd
+  364  hdsk
+  365  cd ..
+  366  cd
+  367  ls
+  368  rmdir .deb*
+  369  rmdir *.deb
+  370  ls
+  371  ls /
+  372  ls /home
+  373  cat etc/passwd
+  374  cat /etc/passwd
+  375  man -R
+  376  man R
+  377  man RF
+  378  man -RF
+  379  man rm -RF
+  380  useradd man
+  381  man useradd
+  382  ls
+  383  cd Downloads/
+  384  ls
+  385  cd ..
+  386  ls
+  387  ls/
+  388  ls /
+  389  cd bin
+  390  pwd
+  391  cd /
+  392  cd /bin
+  393  ls
+  394  ls -lh
+  395  cd .
+  396  cd ..
+  397  apt-get
+  398  sudo spt-get autoremove
+  399  sudo apt-get autoremove
+  400  sudo apt-get autoclean
+  401  sudo apt-get check
+  402  sudo apt-get --fix-broken install
+  403  sudo apt-get check
+  404  sudo man
+  405  man sudo
+  406  sudo apt-get update -y
+  407  sudo apt-get upgrade -y
+  408  sudo apt-get remove mongodb-org
+  409  sudo apt-get remove mongodb
+  410  sudo remove mongodb
+  411  sudo apt remove mongodb
+  412  sudo apt remove -rf mongodb
+  413  sudo remove -rf mongodb
+  414  remove -rf mongodb
+  415  remove -f mongodb
+  416  sudo change -E 
+  417  sudo change -d 0
+  418  sudo passwd -m ansar
+  419  sudo passwd -S ansar
+  420  sudo passwd -l ansar
+  421  change -l ansar
+  422  sudo apt install 
+  423  change -l ansar
+  424  ls -l
+  425  change ansar
+  426  change -l ansar
+  427  man passwd
+  428  man -m
+  429  sudo passwd ansar
+  430  ls
+  431  cd ~
+  432  ls
+  433  cd /
+  434  change -l ansar
+  435  sudo apt install change
+  436  change -l ansar
+  437  man change
+  438  chage -l
+  439  chage -d
+  440  chage -d ansar
+  441  chage -d login
+  442  change
+  443  chage
+  444  man chage
+  445  chage -l
+  446  chage -l ansar
+  447  dmesg
+  448  man >
+  449  dmesg /temp/msg.txt
+  450  dmesg > /temp/msg.txt
+  451  dmesg >> /temp/msg.txt
+  452  dmesg >/temp/msg.txt
+  453  dmesgdmesg > /tmp/msg.txt >/temp/msg.txt
+  454  dmesg > /tmp/msg.txt
+  455  cd /tmp/msg.txt
+  456  cd /temp
+  457  ls
+  458  cd /tmp
+  459  ls
+  460  ls -l
+  461  cat msg.txt 
+  462  journalctl
+  463  journalctl -k | less
+  464  journalctl -k
+  465  cd
+  466  ls
+  467  hstory
+  468  history
+  469  top
+  470  htop
+  471  ls -l
+  472  rmdir -rf paycharmProjects
+  473  rmdir -Rf paycharmProjects
+  474  rmdir paycharmProjects
+  475  ls
+  476  pwd
+  477  sudo rmdir -r PycharmProjects/
+  478  sudo rmdir PycharmProjects/
+  479  sudo rmdir -f PycharmProjects/
+  480  sudo rmdir -R PycharmProjects/
+  481  sudo rmdir -rf PycharmProjects/
+  482  ls -l
+  483  ifconfig
+  484  ip a
+  485  ps aux
+  486  ps aux|grep firfox
+  487  ps aux|grep skype
+  488  pidof firfox
+  489  pidof skype
+  490  killall skype
+  491  htop
+  492  sudo killall skype
+  493  ifconfig
+  494  ifconfig /all
+  495  ifconfig/all
+  496  ifconfig /all
+  497  ifconfig /
+  498  ip -a
+  499  man ifconfig
+  500  ifconfig -a
+  501  man ifconfig
+  502  arp -a
+  503  ip r
+  504  last
+  505  netstat
+  506  arp
+  507  df
+  508  df -h
+  509  nslookup
+  510  nsnnklahsdfsadjslakdjslakd
+  511  nslookup nextbridge.org
+  512  nslookup 10.28.82.1
+  513  nslookup 10.28.82.2
+  514  nslookup 10.28.82.3
+  515  nslookup 10.28.82.4
+  516  nslookup 10.28.82.5
+  517  traceroute
+  518  sudo apt install traceroute
+  519  traceroute
+  520  traceroute>
+  521  traceroute
+  522  sudo traceroute
+  523  traceroute
+  524  traceroute 8.8.8.8
+  525  sudo apt install traceroute
+  526  sudo apt install inetutils-traceroute
+  527  traceroute 8.8.8.8
+  528  traceroute 10.28.80.2
+  529  ping 8.8.8.8
+  530  users
+  531  w
+  532  w -h
+  533  uptime
+  534  uptime -h
+  535  uptime -s
+  536  uptime
+  537  htop
+  538  ps -a
+  539  ps -A
+  540  killall -l
+  541  killall skype
+  542  tracert 
+  543  tracert 8.8.8.8
+  544  traceroute
+  545  tracert
+  546  sudo tracert 8.8.8.8
+  547  iwconfig
+  548  nslookup 10.28.80.552
+  549  nslookup 10.28.81.176
+  550  nslookup NX00552
+  551  nslookup 10.28.81.176
+  552  nslookup NX00552.local.
+  553  nslookup NX00551.local.
+  554  nslookup NX00515.local.
+  555  nslookup NX00473.local.
+  556  nslookup 10.28.81.175
+  557  nslookup 10.28.81.170
+  558  nslookup 10.28.80.179
+  559  nslookup NX00501.local.
+  560  nslookup NX00501
+  561  nslookup NX00573
+  562  nslookup NX00604
+  563  nslookup NX00473
+  564  nslookup NX00344
+  565  nslookup Laptop249
+  566  nslookup Laptop249.nextbridge.org
+  567  nslookup Laptop203.nextbridge.org
+  568  sudo apt-get update -y
+  569  sudo apt-get upgrade -y
+  570  sudo apt --fix-broken install
+  571  sudo apt install openshh-server
+  572  chkconfig move
+  573  chkconfig mv
+  574  chkconfig ls
+  575  chkconfig -list
+  576  chkconfig --list
+  577  sudo apt-get install chkconfig
+  578  chkconfig --list
+  579  chkconfig -list
+  580  update-rc.d
+  581  update-rc.d -l
+  582  apt install sysv-rc-conf
+  583  y
+  584  sudo apt install sysv-rc-conf
+  585  sysv-rc-conf --list
+  586  sudo sysv-rc-conf --list
+  587  systemctl list-dependencies
+  588  passwd
+  589  sync ; echo 1 > proc/sys/vm/drop_caches
+  590  sudo apt install 8.30-3ubuntu2
+  591  sync ; echo 1 > proc/sys/vm/drop_caches
+  592  free
+  593  free -hl
+  594  yum update -y
+  595  ssh@35.173.129.176
+  596  nslookup MISprinter
+  597  sudo apt-get update
+  598  sudo apt-get install git-core
+  599  git--version
+  600  git --version
+  601  sudo apt install git
+  602  git --version
+  603  sudo apt install git
+  604  sudo apt --fix-broken install
+  605  git --version
+  606  sudo apt-get update
+  607  sudo apt install git
+  608  sudo apt-get install -f
+  609  sudo apt install git
+  610  sudo apt-get install -f mongodb
+  611  apt-get
+  612  sudo apt install git
+  613  sudo apt --fix-broken install
+  614  git --version
+  615  software.properties.gtk
+  616  sudo apt clean
+  617  Lenovo7500
+  618  sudo apt clean
+  619  sudo apt autoclean
+  620  sudo apt autoremove
+  621  sudo apt -f install
+  622  sudo dpkg --configure -a
+  623  sudo apt -f install
+  624  sudo apt update 
+  625  sudo service mongod stop
+  626  sudo apt install git
+  627  sudo aptitude -f
+  628  sudo service mongodb-compass stop
+  629  sudo apt-get remove mongodb-compass
+  630  sudo apt-get purge mongodb-compass
+  631  sudo rm -rf /etc/mongodb-compass
+  632  sudo rm -rf ~/.mongodb/compass
+  633  Run apt-get dist-upgrade && apt-get install git
+  634  apt-get dist-upgrade && apt-get install git
+  635  sudo apt-get dist-upgrade && apt-get install git
+  636  sudo apt-get update
+  637  sudo apt-get upgrade
+  638  apt-get --fix-broken install
+  639  sudo apt-get --fix-broken install
+  640  sudo apt-get install git
+  641  git --version
+  642  history
+

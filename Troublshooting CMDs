@@ -1,0 +1,6 @@
+RUN fsck MANUALLY
+the root filesystem on /dev/sda1 require a manual fsck
+solution:-
+sudo fsck /dev/sda1
+fsck /dev/sda1
+fsck /dev/sda1 -y
