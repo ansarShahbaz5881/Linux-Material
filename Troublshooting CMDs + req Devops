@@ -1,0 +1,26 @@
+RUN fsck MANUALLY
+the root filesystem on /dev/sda1 require a manual fsck
+solution:-
+sudo fsck /dev/sda1
+fsck /dev/sda1
+fsck /dev/sda1 -y
+
+    Excellent Linux Concepts, Debian, Ubuntu, Centos
+    Strong Networking Concepts (CCNP)
+    Strong Virtualization Concepts (Vmware, Proxmox)
+    Strong Containerization Concepts
+    Strong Deployment Knowledge (PHP, WordPress, Node, React, Ruby, Python, FTP, SSH, etc)
+    Strong Code Management Knowledge (GIT, GITLAB, etc)
+    Strong Scripting Knowledge (Bash Scripting)
+    Strong Databases Administration Knowledge and CRUD Operations (SQL, NoSQL, CacheDB)
+    Strong Cloud Knowledge (AWS, GCP, Azure) with IaaS and Managed Services Deployment
+    Mid-level Certification, any (AWS, GCP, Azure)
+    Good Automation and Configurations Tools Knowledge (Ansible, Chef or Puppet, etc)
+    Good Knowledge of Migrations
+    Good Client Communication,
+    Good Knowledge of Clusters & Replications
+    Good Knowledge of CI/CD Pipelines at least (Gitlab, Github, Jenkins)
+    Good Knowledge of Emails Services and Deployments
+    Good Knowledge of Microservices, Including Dockers, Kubernetes, LXC containers
+    Good Knowledge of CDK such as Terraform, Cloudformation
+    Excellent communication skills with an ability to clearly explain complex ideas verbally and in writing.
